@@ -2,7 +2,7 @@
 
 Senior Product & SAFe Program Lead at Porsche AG, working on cloud-native vehicle diagnostics and software update systems in Aftersales.
 
-I lead four international product teams building the infrastructure that keeps Porsche vehicles diagnosable, updatable, and connected - from the workshop floor to the cloud.
+I lead international product teams building the infrastructure that keeps Porsche vehicles diagnosable, updatable, and connected - from the workshop floor to the cloud.
 
 #### What I'm working on
 
@@ -21,4 +21,4 @@ SAFe 5 PO/PM | CSPO | CPSA-F (iSAQB) | Advanced Architecting on AWS
 
 ---
 
-<sub>Also on GitHub as [@BenMatheja](https://github.com/BenMatheja) for personal projects.</sub>
+<sub>Personal account: [@BenMatheja](https://github.com/BenMatheja)</sub>
