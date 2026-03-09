@@ -13,7 +13,7 @@ I lead international product teams building the infrastructure that keeps Porsch
 
 #### Tech I work with
 
-`Kubernetes` `AWS` `Terraform/OpenTofu` `Python` `TypeScript` `GitOps (FluxCD)` `SAFe`
+`Kubernetes` `AWS` `Terraform/OpenTofu` `Python` `TypeScript` `GitOps (FluxCD)`
 
 #### Certifications
 
